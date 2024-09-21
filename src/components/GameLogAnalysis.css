@@ -1,0 +1,22 @@
+/* src/components/GameLogAnalysis.css */
+
+.analysis-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .analysis-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .analysis-container h3 {
+    margin-top: 20px;
+  }
+  
+  .analysis-container pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
